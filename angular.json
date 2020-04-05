@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "financial-almanac"
+    }
+  },
+  "defaultProject": "financial-almanac",
+  "cli": {
+    "analytics": false
+  }
 }
